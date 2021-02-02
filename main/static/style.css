@@ -1,0 +1,25 @@
+body {
+  /*font-family: "Lato", sans-serif;*/
+}
+
+.left {
+	padding-left: 20px;
+    left:0;
+    bottom: 0;
+    width: 220px;
+}
+
+.main {
+    position: absolute;
+    left:300px; right:0; bottom:0; top: 0;
+}
+
+.item a{
+    text-align: center;
+}
+
+.item img{
+    max-height: 200px;
+    margin-left: auto !important;
+    margin-right: auto;
+}
